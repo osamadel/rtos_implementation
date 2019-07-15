@@ -8,6 +8,8 @@
 #ifndef OS_PRIVATE_H_
 #define OS_PRIVATE_H_
 
+void OS_scheduler(void);
+
 typedef struct {
 	void (*taskHandler) (void);
 	uint32 period;

@@ -10,7 +10,6 @@
 
 void OS_init(void);
 void OS_start(void);
-void OS_scheduler(void);
 uint8 OS_createTask(void (*ptr) (void), uint32 period, uint32 priority, uint32 firstDelay);
 uint8 OS_deleteTask(uint32 priority);
 uint8 OS_suspend(uint32 priority);
