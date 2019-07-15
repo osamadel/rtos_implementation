@@ -9,7 +9,7 @@ This is my implementation of a simple real-time operating system that has the fo
 - OS_resume
 - OS_start
 
-This OS was used to make different peripherals work concurrently including a buzzer, an LED, Servo motor and LCD
+This OS was used to make different peripherals work concurrently including a buzzer, an LED, Servo motor, 7 segments and LCD
 
 **You can find a demo here:**
 
