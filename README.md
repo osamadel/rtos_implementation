@@ -1,6 +1,6 @@
 # Real Time Operating System Implementation
 
-This is my implementation of a simple real-time operating system that has the following interfaces:
+This is my implementation of a simple non-preemptive real-time operating system that has the following interfaces:
 
 - OS_init
 - OS_createTask
